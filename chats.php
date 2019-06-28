@@ -1,3 +1,6 @@
+<div id="div1">
+</div>
+
 <?php
 <script>
     const pricesWs = new WebSocket('wss://ws.coincap.io/prices?assets=bitcoin,ethereum,ripple,litecoin,monero,verge,digibyte')
